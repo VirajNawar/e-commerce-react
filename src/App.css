@@ -1,0 +1,18 @@
+.nav-container{
+    display:flex;
+    justify-content: space-between;
+}
+
+.right-align{
+    display: flex;
+    margin-left: 5px;
+}
+.right-align>img{
+    margin-left: 20px;
+}
+
+.nav-favicon{
+height: 10px;
+}
+
+
